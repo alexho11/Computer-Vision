@@ -46,11 +46,15 @@ x2=np.vstack((x2[0,:]/x2[2,:],x2[1,:]/x2[2,:])).T
 # plt.show()
 
 #task 3
-M=P[0:3,0:3]
+M=P2[0:3,0:3]
 [RotTrans,Kinv]=linalg.qr(linalg.inv(M))
 R_re=RotTrans.T
 K_re=linalg.inv(Kinv)
 K_re=K_re/K_re[2,2]
 
-print(R_re)
-print(K_re)
+# print(R_re)
+# print(K_re)
+
+a=np.dot(linalg.inv(M),P2)
+X_0=-a[:,3]
+print(X_0)
