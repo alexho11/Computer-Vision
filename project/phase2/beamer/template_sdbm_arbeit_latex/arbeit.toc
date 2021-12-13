@@ -1,0 +1,11 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Erstes Kapitel}{1}%
+\contentsline {section}{\numberline {1.1}Erster Abschnitt}{1}%
+\contentsline {section}{\numberline {1.2}Und n\"achster Abschnitt}{2}%
+\contentsline {chapter}{\numberline {2}Zweites Kapitel}{3}%
+\contentsline {section}{\numberline {2.1}Neuer Abschnitt}{3}%
+\contentsline {chapter}{\numberline {3}Drittes Kapitel}{5}%
+\contentsline {section}{\numberline {3.1}Absatz}{5}%
+\contentsline {chapter}{\numberline {4}Viertes Kapitel}{7}%
+\contentsline {section}{\numberline {4.1}Eine Sektion}{7}%
+\contentsline {chapter}{\numberline {A}Anhang}{XV}%
