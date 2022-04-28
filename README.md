@@ -7,4 +7,5 @@ For an example image of a UAV aerial photo block, the parameters of the inner an
 3. Reconstruction of the inner and outer orientation using the P matrix.
 
 ## Project
+This project is mainly reconstructing a 3D building with Structure-from-Motion Method combined with a set of laser-scanning data in order to implement Iterative Closest Point Algorithm.
 <img src="https://raw.githubusercontent.com/alexho11/Computer-Vision/main/project/result.PNG" width="600"/>
