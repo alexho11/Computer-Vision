@@ -5,3 +5,6 @@ For an example image of a UAV aerial photo block, the parameters of the inner an
 1. Calculate of the projection matrix P with the given inner and outer orientation. And plot the corresponding points in the image.
 2. Determin the P matrix with the image coordinates in 1.section and the given coordiantes.
 3. Reconstruction of the inner and outer orientation using the P matrix.
+
+## Project
+<img src="https://raw.githubusercontent.com/alexho11/Computer-Vision/main/project/result.PNG" width="600"/>
